@@ -1,0 +1,10 @@
+{
+    "sim_dir": "VnSimulator_v2.5",
+    "map_dir": "map_tjsh",
+    "config_dir": "tjsh",
+    "config_file": "CC.tjsh.config",
+    "port": "64801",
+    "mapf_lns_max_steps": 500,
+    "mapf_lns_max_time": 50,
+	"refresh_data": 1
+}
