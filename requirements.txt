@@ -45,7 +45,7 @@ protobuf==3.19.3
 psutil==5.9.0
 pyglet==1.5.0
 Pygments==2.13.0
-pyinstaller==5.13.0
+pyinstaller==5.13.1
 pyinstaller-hooks-contrib==2023.6
 pyparsing==2.4.7
 python-dateutil==2.8.1
